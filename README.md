@@ -2,9 +2,8 @@
 
 Guitar Music Written with Deep Learning
 
-[Listen on Soundcloud!](https://soundcloud.com/adityathakkar/deep-guitar)
-![SoundCloud Logo](soundcloud_logo.png)
-
+## Listen!
+Check it out on SoundCloud: [Listen!](https://soundcloud.com/adityathakkar/deep-guitar)
 
 ## Technical Details
 
