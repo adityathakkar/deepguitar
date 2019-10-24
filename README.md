@@ -1,5 +1,6 @@
-# deepguitar
-Guitar Music Composition with Deep Learning
+# Deep Guitar 
+
+Guitar Music Written with Deep Learning
 
 ## Listen!
 
