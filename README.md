@@ -5,5 +5,5 @@ Guitar Music Composition Driven by Deep Learning
 
 [Listen on Soundcloud](https://soundcloud.com/adityathakkar/deep-guitar)
 
-![SoundCloud Logo](images/soundcloud_logo.png)
+![SoundCloud Logo](images/soundcloud_logo.jpg)
 
