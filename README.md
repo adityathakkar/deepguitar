@@ -1,9 +1,9 @@
 # deepguitar
 Guitar Music Composition Driven by Deep Learning
 
-## Listen
+## Listen!
 
 [Listen on Soundcloud](https://soundcloud.com/adityathakkar/deep-guitar)
 
-![SoundCloud Logo](soundcloud_logo.png | width=100)
+![SoundCloud Logo](soundcloud_logo.png)
 
