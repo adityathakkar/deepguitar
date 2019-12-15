@@ -1,6 +1,6 @@
 # Deep Guitar 
 
-Guitar Music Written with Deep Learning
+A Deep Learning Model that composes music 
 
 ## Listen!
 Check it out on SoundCloud: [Listen!](https://soundcloud.com/adityathakkar/deep-guitar)
