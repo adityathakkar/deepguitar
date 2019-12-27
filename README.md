@@ -1,6 +1,6 @@
 # Deep Guitar 
 
-A Deep Learning Model that composes music 
+Deep Learning driven music composition
 
 ## Listen!
 Check it out on SoundCloud: [Listen!](https://soundcloud.com/adityathakkar/deep-guitar)
